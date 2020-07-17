@@ -123,7 +123,7 @@ only [a few steps](https://core.telegram.org/bots#3-how-do-i-create-a-bot).
  2. Deploy the chatbot as described in **First deployment** above
  3. Run
     ```
-    $ ./node_modules/.bin/claudia --configure-telegram-bot
+    $ ./node_modules/.bin/claudia update --configure-telegram-bot
     ```
     and follow the instructions shown on the screen.
 
